@@ -9,8 +9,33 @@ Bharat-Lite is an offline-first, low-bandwidth AI assistant designed specificall
 **Team Lead:** Avinash Kumar Sharma  
 **Team Members:** Subodh Yadav, Abhishek Pratap Singh, Gaurav Singh  
 
----
+1️⃣ Initialize & Connect Repo
+Bash
+Copy code
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/AVINASH080703/Agni-Code_Low_Bandwidth_AIAssistant_ForRural_Areas.git
+git push -u origin main
+2️⃣ For Team Members
+Bash
+Copy code
+git clone https://github.com/AVINASH080703/Agni-Code_Low_Bandwidth_AIAssistant_ForRural_Areas.git
 
+cd repo-name
+3️⃣ Create Branch & Push
+Bash
+Copy code
+git checkout -b feature-name
+git add .
+git commit -m "Added feature"
+git push origin feature-name
+4️⃣ Daily Workflow
+Bash
+Copy code
+git pull origin main
+* imp instructions
+---
 # 📌 Problem Statement
 
 Rural areas in India face significant digital accessibility challenges:
