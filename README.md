@@ -1,8 +1,8 @@
-# Agni-Code_LowBandwidth-AIAssistantForRuralAreas
-GramSathi is an offline-first, low-bandwidth AI assistant designed specifically for rural communities with limited internet connectivity.
+# TEAM=Agni-Code_LowBandwidth-AIAssistantForRuralAreas
+Bharat-Lite is an offline-first, low-bandwidth AI assistant designed specifically for rural communities with limited internet connectivity.
 
 
-# 🌾 Bharat Lite – Low Bandwidth AI Assistant for Rural Areas
+# 🌾 Bharat-Lite – Low Bandwidth AI Assistant for Rural Areas
 
 ## 🚀 InnVedX Code Hackathon Submission  
 **Track:** AI, Data & Smart Systems  
