@@ -91,7 +91,15 @@ There is a need for a lightweight, intelligent assistant specifically designed f
 
 - **KnowledgeBase Table**
   - Stores locally searchable rural information
+⚙️ DevOps Integration – Docker & Jenkins
 
+To ensure scalability, portability, and automated deployment, GramSathi integrates:
+
+🐳 Docker (Containerization)
+
+🔁 Jenkins (CI/CD Automation)
+
+This makes the project production-ready and easy to deploy even in low-resource environments.
 ---
 
 # 🔑 Key Features
@@ -104,6 +112,8 @@ There is a need for a lightweight, intelligent assistant specifically designed f
 ✔ Persistent chat storage using SQLite  
 ✔ Responsive design (mobile friendly)  
 ✔ Lightweight and low bandwidth optimized  
+
+
 
 
 
